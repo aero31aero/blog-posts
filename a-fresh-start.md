@@ -29,4 +29,4 @@ The one problem that I can't quite figure out is SEO. A single page website rend
 
 Well, it feels nice to have worked on something and see it in action, functioning just like you imagined it would. The eternal question of *should I roll out my own blog* had been troubling me for quite a while whnen I failed to find anything that suited my tastes, so I don't have any qualms (**yet**) about my decision to reinvent the wheel, mainly because this particular wheel is structurally different from others, and because it was fun.
 
-If you are geeky enough, you might want to take a look at the [source code](https://github.com/aero31aero/raia) on GitHub.
+If you are geeky enough, you might want to take a look at the [source code](https://github.com/aero31aero/raia) on GitHub. The developer environment is hosted [here](http://rohitt.me/raia/dist) and you'd find multiple sample posts there. Till I add comments, leave me some feedback in some other manner. Thanks for reading. :D
