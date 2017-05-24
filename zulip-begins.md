@@ -1,6 +1,8 @@
 # Zulip Summer of Code
 I would be interning at Zulip in the summers of 2017, and it has been pretty eventful already. So here's a brief of how I started contributing to Zulip and what I plan to work on.
 
+[Zulip](https://zulip.org) is a powerful open source group chat application, with dedicated API bindings, mobile applications as well as the primary web interface to make communicating with large communities easier.
+
 ## Finding Zulip
 It all began in October when my friend and WikiToLearn hacker [Srijan Agarwal](https://github.com/Srijancse) invited me to try contributing to a live editor for WikiToLearn. I had been trying unsuccessfully to get the developer environment for WikiToLearn up and running but failng to that for quite some time because of some dependency issues when I finally decided to give up on it. Also worth noting is that MediaWiki being a PHP application was a factor. I know people do serious work in PHP but I can't get myself to do that for some reason.
 
@@ -19,12 +21,13 @@ Basically, I'd lost out 23 days of time that I instead might have spent on Zulip
 
 To sum in one line, this was my idea: *Automated Deployment of Zulip Bots*. Here's the abstract I wrote:
 
->With this project, I aim to simplify the process of bot creation and running, and make it as smooth as possible by adding the following features:
-- Easy Deployment from GitHub to Heroku
-- Configuration Generator for bots using external services
-- Package management for bots
-- Basic API permissions management dashboard
-My main aim is to decouple the bots from Zulip's core (zulip/zulip repository) and make the bot discovery and installation process easier for users.
+> With this project, I aim to simplify the process of bot creation and running, and make it as smooth as possible by adding the following features:
+> - Easy Deployment from GitHub to Heroku
+> - Configuration Generator for bots using external services
+> - Package management for bots
+> - Basic API permissions management dashboard
+> 
+> My main aim is to decouple the bots from Zulip's core (zulip/zulip repository) and make the bot discovery and installation process easier for users.
 
 I was getting positive feedback from the community and from my friends who were also preparing their own proposals and I continued sending patches as well as revising my proposal as the days went by. Then came the waiting period at the end of which I found out I wasn't selected. Needless to say, self-confidence goes down when you've been trying hard to achieve something and fail. I contacted Tim to know what I did wrong and instead got the good news that I was instead short listed for the unofficial internship program that Zulip offers: Zulip Summer of Code.
 
